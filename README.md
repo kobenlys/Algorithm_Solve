@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/kobenlys/Algorithm_Solve/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -94,12 +95,14 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Two Pointers
@@ -110,4 +113,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kobenlys/Algorithm_Solve/tree/master/0242-valid-anagram) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
