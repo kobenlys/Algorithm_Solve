@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/kobenlys/Algorithm_Solve/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/kobenlys/Algorithm_Solve/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kobenlys/Algorithm_Solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/kobenlys/Algorithm_Solve/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/kobenlys/Algorithm_Solve/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kobenlys/Algorithm_Solve/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -37,6 +38,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/kobenlys/Algorithm_Solve/tree/master/0704-binary-search) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kobenlys/Algorithm_Solve/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
