@@ -12,6 +12,7 @@
 | [0020-valid-parentheses](https://github.com/kobenlys/Algorithm_Solve/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kobenlys/Algorithm_Solve/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kobenlys/Algorithm_Solve/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/kobenlys/Algorithm_Solve/tree/master/0383-ransom-note) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kobenlys/Algorithm_Solve/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Stack
 |  |
@@ -37,6 +38,7 @@
 | [0001-two-sum](https://github.com/kobenlys/Algorithm_Solve/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kobenlys/Algorithm_Solve/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/kobenlys/Algorithm_Solve/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/kobenlys/Algorithm_Solve/tree/master/0383-ransom-note) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kobenlys/Algorithm_Solve/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/kobenlys/Algorithm_Solve/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
