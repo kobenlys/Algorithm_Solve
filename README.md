@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kobenlys/Algorithm_Solve/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/kobenlys/Algorithm_Solve/tree/master/0070-climbing-stairs) |
 | [1390-four-divisors](https://github.com/kobenlys/Algorithm_Solve/tree/master/1390-four-divisors) |
 ## Linked List
 |  |
@@ -90,6 +91,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kobenlys/Algorithm_Solve/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kobenlys/Algorithm_Solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kobenlys/Algorithm_Solve/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kobenlys/Algorithm_Solve/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/kobenlys/Algorithm_Solve/tree/master/0383-ransom-note) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kobenlys/Algorithm_Solve/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
