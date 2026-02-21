@@ -26,6 +26,7 @@
 | [0001-two-sum](https://github.com/kobenlys/Algorithm_Solve/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/kobenlys/Algorithm_Solve/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kobenlys/Algorithm_Solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/kobenlys/Algorithm_Solve/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kobenlys/Algorithm_Solve/tree/master/0733-flood-fill) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kobenlys/Algorithm_Solve/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kobenlys/Algorithm_Solve/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kobenlys/Algorithm_Solve/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kobenlys/Algorithm_Solve/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kobenlys/Algorithm_Solve/tree/master/0409-longest-palindrome) |
@@ -129,6 +131,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kobenlys/Algorithm_Solve/tree/master/0242-valid-anagram) |
 ## Binary Search Tree
 |  |
@@ -149,9 +152,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kobenlys/Algorithm_Solve/tree/master/0383-ransom-note) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kobenlys/Algorithm_Solve/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
