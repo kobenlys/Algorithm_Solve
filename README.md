@@ -30,6 +30,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kobenlys/Algorithm_Solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kobenlys/Algorithm_Solve/tree/master/0217-contains-duplicate) |
+| [0542-01-matrix](https://github.com/kobenlys/Algorithm_Solve/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kobenlys/Algorithm_Solve/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kobenlys/Algorithm_Solve/tree/master/0733-flood-fill) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/kobenlys/Algorithm_Solve/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kobenlys/Algorithm_Solve/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kobenlys/Algorithm_Solve/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -81,6 +83,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/kobenlys/Algorithm_Solve/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kobenlys/Algorithm_Solve/tree/master/0733-flood-fill) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kobenlys/Algorithm_Solve/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kobenlys/Algorithm_Solve/tree/master/1975-maximum-matrix-sum) |
@@ -108,6 +111,7 @@
 | [0053-maximum-subarray](https://github.com/kobenlys/Algorithm_Solve/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kobenlys/Algorithm_Solve/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kobenlys/Algorithm_Solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/kobenlys/Algorithm_Solve/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kobenlys/Algorithm_Solve/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kobenlys/Algorithm_Solve/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kobenlys/Algorithm_Solve/tree/master/1458-max-dot-product-of-two-subsequences) |
