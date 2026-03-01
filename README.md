@@ -34,6 +34,7 @@
 | [0704-binary-search](https://github.com/kobenlys/Algorithm_Solve/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kobenlys/Algorithm_Solve/tree/master/0733-flood-fill) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
 | [1390-four-divisors](https://github.com/kobenlys/Algorithm_Solve/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kobenlys/Algorithm_Solve/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kobenlys/Algorithm_Solve/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/kobenlys/Algorithm_Solve/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kobenlys/Algorithm_Solve/tree/master/0070-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
 | [1390-four-divisors](https://github.com/kobenlys/Algorithm_Solve/tree/master/1390-four-divisors) |
 ## Linked List
 |  |
@@ -152,6 +154,7 @@
 | [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kobenlys/Algorithm_Solve/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kobenlys/Algorithm_Solve/tree/master/0242-valid-anagram) |
+| [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -182,4 +185,17 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/kobenlys/Algorithm_Solve/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
