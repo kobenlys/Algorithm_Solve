@@ -2,7 +2,7 @@ class Solution {
     public int lengthOfLongestSubstring(String s) {
         
         int left = 0, right = 0, answer = 1;
-        Set<Character> set = new HashSet<>();
+        boolean[] vi = new boolean[128];
 
         if(s.length() == 0){
             return 0;
@@ -12,12 +12,11 @@ class Solution {
 
             char c = s.charAt(right);
 
-            if(set.contains(c)){
-                
-                answer = Math.max(answer, set.size());
+            if(vi[c]){
+                answer = Math.max(answer, right - left);
                 while(left < right) {
                     char d = s.charAt(left++);
-                    set.remove(d);
+                    vi[d] = false;
                     if(d == c) {
                         break;
                     }
@@ -25,10 +24,10 @@ class Solution {
             }
             
             right++;
-            set.add(c);
+            vi[c] = true;
         }
-        
-        answer = Math.max(answer, set.size());
+
+        answer = Math.max(answer, right - left);
         return answer;
     }
 }
