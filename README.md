@@ -38,6 +38,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
 | [1390-four-divisors](https://github.com/kobenlys/Algorithm_Solve/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kobenlys/Algorithm_Solve/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1652-defuse-the-bomb](https://github.com/kobenlys/Algorithm_Solve/tree/master/1652-defuse-the-bomb) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kobenlys/Algorithm_Solve/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kobenlys/Algorithm_Solve/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
@@ -205,4 +206,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kobenlys/Algorithm_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1652-defuse-the-bomb](https://github.com/kobenlys/Algorithm_Solve/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
