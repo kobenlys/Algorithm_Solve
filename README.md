@@ -40,6 +40,7 @@
 | [1390-four-divisors](https://github.com/kobenlys/Algorithm_Solve/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kobenlys/Algorithm_Solve/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1652-defuse-the-bomb](https://github.com/kobenlys/Algorithm_Solve/tree/master/1652-defuse-the-bomb) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kobenlys/Algorithm_Solve/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kobenlys/Algorithm_Solve/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
@@ -55,6 +56,7 @@
 | [0383-ransom-note](https://github.com/kobenlys/Algorithm_Solve/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kobenlys/Algorithm_Solve/tree/master/0409-longest-palindrome) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kobenlys/Algorithm_Solve/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/kobenlys/Algorithm_Solve/tree/master/1390-four-divisors) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kobenlys/Algorithm_Solve/tree/master/0383-ransom-note) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Memoization
 |  |
 | ------- |
