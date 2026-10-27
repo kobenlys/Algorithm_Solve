@@ -96,6 +96,7 @@
 | [0066-plus-one](https://github.com/kobenlys/Algorithm_Solve/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kobenlys/Algorithm_Solve/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kobenlys/Algorithm_Solve/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/kobenlys/Algorithm_Solve/tree/master/1390-four-divisors) |
 ## Linked List
 |  |
