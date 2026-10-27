@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kobenlys/Algorithm_Solve/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/kobenlys/Algorithm_Solve/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/kobenlys/Algorithm_Solve/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/kobenlys/Algorithm_Solve/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/kobenlys/Algorithm_Solve/tree/master/0066-plus-one) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kobenlys/Algorithm_Solve/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kobenlys/Algorithm_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/kobenlys/Algorithm_Solve/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/kobenlys/Algorithm_Solve/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kobenlys/Algorithm_Solve/tree/master/0217-contains-duplicate) |
@@ -87,6 +89,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kobenlys/Algorithm_Solve/tree/master/0036-valid-sudoku) |
 | [0542-01-matrix](https://github.com/kobenlys/Algorithm_Solve/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kobenlys/Algorithm_Solve/tree/master/0733-flood-fill) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kobenlys/Algorithm_Solve/tree/master/1970-last-day-where-you-can-still-cross) |
