@@ -43,6 +43,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kobenlys/Algorithm_Solve/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kobenlys/Algorithm_Solve/tree/master/1975-maximum-matrix-sum) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
