@@ -16,6 +16,7 @@
 | [0383-ransom-note](https://github.com/kobenlys/Algorithm_Solve/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kobenlys/Algorithm_Solve/tree/master/0409-longest-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kobenlys/Algorithm_Solve/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kobenlys/Algorithm_Solve/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -215,4 +216,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kobenlys/Algorithm_Solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1652-defuse-the-bomb](https://github.com/kobenlys/Algorithm_Solve/tree/master/1652-defuse-the-bomb) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kobenlys/Algorithm_Solve/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
