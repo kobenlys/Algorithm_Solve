@@ -32,6 +32,7 @@
 | [0066-plus-one](https://github.com/kobenlys/Algorithm_Solve/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kobenlys/Algorithm_Solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kobenlys/Algorithm_Solve/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/kobenlys/Algorithm_Solve/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kobenlys/Algorithm_Solve/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/kobenlys/Algorithm_Solve/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kobenlys/Algorithm_Solve/tree/master/0704-binary-search) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/kobenlys/Algorithm_Solve/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0543-diameter-of-binary-tree) |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/kobenlys/Algorithm_Solve/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kobenlys/Algorithm_Solve/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/kobenlys/Algorithm_Solve/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kobenlys/Algorithm_Solve/tree/master/0733-flood-fill) |
@@ -94,6 +97,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kobenlys/Algorithm_Solve/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/kobenlys/Algorithm_Solve/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kobenlys/Algorithm_Solve/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kobenlys/Algorithm_Solve/tree/master/0733-flood-fill) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kobenlys/Algorithm_Solve/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -220,4 +224,8 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kobenlys/Algorithm_Solve/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kobenlys/Algorithm_Solve/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
