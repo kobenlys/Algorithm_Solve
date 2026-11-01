@@ -37,6 +37,7 @@
 | [0542-01-matrix](https://github.com/kobenlys/Algorithm_Solve/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kobenlys/Algorithm_Solve/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kobenlys/Algorithm_Solve/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/kobenlys/Algorithm_Solve/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kobenlys/Algorithm_Solve/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kobenlys/Algorithm_Solve/tree/master/0973-k-closest-points-to-origin) |
 | [1390-four-divisors](https://github.com/kobenlys/Algorithm_Solve/tree/master/1390-four-divisors) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/kobenlys/Algorithm_Solve/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kobenlys/Algorithm_Solve/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kobenlys/Algorithm_Solve/tree/master/0875-koko-eating-bananas) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kobenlys/Algorithm_Solve/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
